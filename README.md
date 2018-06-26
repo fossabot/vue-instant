@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/vue-instant.svg) ![npm](https://img.shields.io/npm/dm/vue-instant.svg)](https://www.npmjs.com/package/vue-instant)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsantiblanko%2Fvue-instant.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsantiblanko%2Fvue-instant?ref=badge_shield)
 
 vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.
 
@@ -57,3 +58,6 @@ If you need more details see the examples folder.
 ## License
 
 MIT © [Santiago Blanco](http://twitter.com/santiblanko)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsantiblanko%2Fvue-instant.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsantiblanko%2Fvue-instant?ref=badge_large)
